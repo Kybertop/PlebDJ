@@ -27,7 +27,7 @@
         "user":                 "#8B92A3"
     },
     "images": {
-        "background":           null,
+        "background":           "https://cdn.radiant.dj/rcs/bg/1.png",
         "playback":             null,
         "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
@@ -53,7 +53,7 @@
         "!cohost":    4,
         "!host": {
             "role": 5,
-            "icon": "https://cdn.radiant.dj/rcs/emotes/img/orilurk.png"
+            "icon": "https://rcs.radiant.dj/img/plugdj/avatars/all/tastycatb.png"
         },
         "!getban": 2,
         "!clearchat": 2,
